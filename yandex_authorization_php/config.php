@@ -1,0 +1,6 @@
+<?
+
+define('ID', '');
+define('SECRET', '');
+
+?>
